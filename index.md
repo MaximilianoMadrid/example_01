@@ -10,3 +10,7 @@
 ``` javscrypt
 var myVar = "Hello, world!";
 ```
+
+- [] 1
+- [] 2
+- [] 3
